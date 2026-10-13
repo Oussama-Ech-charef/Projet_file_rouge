@@ -1,1 +1,0 @@
-Read the entire prompt.md file and follow its instructions. This is a standalone, empty workspace. Build the project directly in the current folder, treating it as the project root. Use the technologies and folder structure specified in the prompt. Do not search outside this workspace.
