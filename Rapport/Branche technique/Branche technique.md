@@ -1,0 +1,1 @@
+Dans cette section, nous présentons la **branche technique** de notre projet de **Cabinet Médical / Téléconsultation**. Elle consiste à décrire les choix technologiques, l'architecture logicielle retenue ainsi que le prototype technique développé pour valider la prise en charge médicale, les consultations et la gestion des ordonnances.
